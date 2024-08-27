@@ -23,3 +23,14 @@ java -cp bin Markov.MarkovText
 
 The program will prompt you to enter a word. Type a word and press Enter to get suggestions for the next possible words.
 Type exit to quit the program and see the list of selected words.
+
+## Example
+Enter a <p style="color: blur;">word </P> (or 'exit' to quit): hello
+Suggestions: world, there, friend
+
+Enter a word (or 'exit' to quit): world
+Suggestions: is, is not
+
+Enter a word (or 'exit' to quit): exit
+Selected words: hello world
+
