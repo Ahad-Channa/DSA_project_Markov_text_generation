@@ -25,7 +25,7 @@ The program will prompt you to enter a word. Type a word and press Enter to get 
 Type exit to quit the program and see the list of selected words.
 
 ## Example
-Enter a <p style="color: blur;">word </P> (or 'exit' to quit): hello
+Enter a word (or 'exit' to quit): hello
 Suggestions: world, there, friend
 
 Enter a word (or 'exit' to quit): world
@@ -33,4 +33,8 @@ Suggestions: is, is not
 
 Enter a word (or 'exit' to quit): exit
 Selected words: hello world
+
+
+## Contributing
+Contributions are welcome! Please fork the repository and submit a pull request with your changes. Make sure to follow the project's coding standards and include tests where applicable.
 
